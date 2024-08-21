@@ -38,13 +38,13 @@ This project implements a basic server-client application in C++ using socket pr
      g++ -o client Client.cpp -lws2_32
    ```
 4. Running the Application:
-  1- Start the server:
+   Start the server:
    ```
     ./server
    ```
-  2- Start the client(s):
+   Start the client(s):
    ```
-   ./client
+    ./client
    ```
 ### Usage
 - Upload a File: UPLOAD /path/to/your/file
