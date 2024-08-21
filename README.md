@@ -33,19 +33,19 @@ This project implements a basic server-client application in C++ using socket pr
    cd your-repo-name
    ```
 3. Compile the server and client:
-```
-  g++ -o server Server.cpp -lws2_32
-  g++ -o client Client.cpp -lws2_32
-```
+   ```
+     g++ -o server Server.cpp -lws2_32
+     g++ -o client Client.cpp -lws2_32
+   ```
 4. Running the Application
   1- Start the server:
-    ```
+   ```
     ./server
-    ```
+   ```
   2- Start the client(s):
-  ```
+   ```
     ./client
-  ```
+   ```
 ### Usage
 - Upload a File: UPLOAD /path/to/your/file
 - Download a File: DOWNLOAD filename
