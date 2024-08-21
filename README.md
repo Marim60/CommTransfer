@@ -37,7 +37,7 @@ This project implements a basic server-client application in C++ using socket pr
      g++ -o server Server.cpp -lws2_32
      g++ -o client Client.cpp -lws2_32
    ```
-4. Running the Application
+4. Running the Application:
   1- Start the server:
    ```
     ./server
