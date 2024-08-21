@@ -44,7 +44,7 @@ This project implements a basic server-client application in C++ using socket pr
    ```
   2- Start the client(s):
    ```
-    ./client
+   ./client
    ```
 ### Usage
 - Upload a File: UPLOAD /path/to/your/file
