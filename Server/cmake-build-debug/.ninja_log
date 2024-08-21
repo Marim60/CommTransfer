@@ -1,0 +1,10 @@
+# ninja log v5
+12	1561	7456882818429591	CMakeFiles/Server.dir/FileTransferHandler.cpp.obj	7c7ee5e1f45173da
+16	1539	7456887824069583	CMakeFiles/Server.dir/ClientHandler.cpp.obj	23a75304bebcc56e
+3	1191	7456888048668817	CMakeFiles/Server.dir/MessageHandler.cpp.obj	96b24f3f56a9018
+3	1362	7459653887399501	CMakeFiles/Server.dir/main.cpp.obj	31981f961c304f77
+3	1546	7459708034565939	CMakeFiles/Server.dir/Server.cpp.obj	c05779a7ed04165c
+1547	1683	7459708035981726	Server.exe	90e04a8df7850b27
+4	1593	7459723955023718	CMakeFiles/Server.dir/main.cpp.obj	31981f961c304f77
+9	1992	7459723959150868	CMakeFiles/Server.dir/Server.cpp.obj	c05779a7ed04165c
+1992	2117	7459723960365640	Server.exe	90e04a8df7850b27

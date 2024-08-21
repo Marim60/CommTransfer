@@ -1,0 +1,3 @@
+D:/MariamFCAI/Mariam is Fresh/Projects C++/CommTransfer/Client/cmake-build-debug/CMakeFiles/Client.dir
+D:/MariamFCAI/Mariam is Fresh/Projects C++/CommTransfer/Client/cmake-build-debug/CMakeFiles/edit_cache.dir
+D:/MariamFCAI/Mariam is Fresh/Projects C++/CommTransfer/Client/cmake-build-debug/CMakeFiles/rebuild_cache.dir
